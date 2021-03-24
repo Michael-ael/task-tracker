@@ -98,6 +98,11 @@ body{
     background: rgb(63, 95, 165);
     border: none;
     outline: none;
+    color: #fff;
+}
+
+.form-control input[value] {
+    color: #fff;
 }
 
 .form-control input::placeholder{
